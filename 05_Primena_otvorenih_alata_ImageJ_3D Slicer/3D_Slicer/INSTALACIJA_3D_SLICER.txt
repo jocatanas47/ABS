@@ -1,0 +1,5 @@
+Instalacija:
+https://download.slicer.org/
+
+Tutoriali
+https://slicer.readthedocs.io/en/latest/
